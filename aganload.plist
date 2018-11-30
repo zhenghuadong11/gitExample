@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.tigress.sport</string>
+				<key>bundle-version</key>
+				<string>2.0.1</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>阿甘足球</string>
+			</dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>url</key>
+					<string>https://www.aganzucai.com/img/1024JPG.jpg</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>kind</key>
+					<string>display-image</string>
+				</dict>
+				<dict>
+					<key>needs-shine</key>
+					<true/>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>https://www.aganzucai.com/img/1024JPG.jpg</string>
+				</dict>
+				<dict>
+					<key>url</key>
+					<string>https://www.aganzucai.com/sge_阿甘足球_20181129173233_resigned.ipa</string>
+					<key>kind</key>
+					<string>software-package</string>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
